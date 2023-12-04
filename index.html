@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+    <script src="https://static.sekandocdn.net/static/feednami/feednami-client-v1.1.js"></script>
+    <script src="pod/js/application.js"></script>
+</head>
+<body>
+
+	<input type="file" accept=".txt, .xml, .opml" multiple="false" onchange="loadFile(event)" />
+	<button type="button" onclick="clearDownloadEpisodes()">Clear List</button>
+	<button type="button" onclick="generateTextfile()">Get Textfile</button>
+	<button type="button" onclick="generateHtmlfile()">Get Html</button>
+
+	<div class="container">
+	  <div class="row"> 
+	    <div class="col">
+	      <div id="podcastDescArea"></div>
+	      <div id="podcastArea" class="list-group"></div>
+	    </div>
+	    <div class="col">
+	      <div id="episodeDescArea"></div>
+	      <div id="episodeArea" class="list-group"></div>
+	    </div>
+	    <div class="col">
+	      <div id="downloadArea" class="list-group"></div>
+	    </div>
+	  </div>
+	</div>
+
+</body>
+</html>

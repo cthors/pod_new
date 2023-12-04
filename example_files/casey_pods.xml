@@ -1,0 +1,30 @@
+<body>
+	<outline title="the woods">
+		The Dirt						<feed xmlUrl="https://anchor.fm/s/13538988/podcast/rss"></feed>
+		Stumped.						<feed xmlUrl="https://feeds.buzzsprout.com/1212722.rss"></feed>
+	</outline>
+
+	<outline title="hackers">
+		Darknet Diaries					<feed xmlUrl="https://feeds.megaphone.fm/darknetdiaries"></feed>
+		Off The Wall					<feed xmlUrl="https://www.2600.com/otw-broadband.xml"></feed>
+		Off The Hook					<feed xmlUrl="https://www.2600.com/oth-broadband.xml"></feed>
+	</outline>
+
+	<outline title="history &amp; mystery">
+		Futility Closet					<feed xmlUrl="https://futilitycloset.libsyn.com/rss"></feed>
+		Astonishing Legends				<feed xmlUrl="https://audioboom.com/channels/4322549.rss"></feed>
+		In Our Time						<feed xmlUrl="https://podcasts.files.bbci.co.uk/b006qykl.rss"></feed>
+		Thinking Sideways				<feed xmlUrl="https://rss.art19.com/thinking-sideways"></feed>
+	</outline>
+
+	<outline title="unlistened">
+		Banned Media Podcast			<feed xmlUrl="https://bannedmediapodcast.libsyn.com/rss"></feed>
+		That's Dark						<feed xmlUrl="https://thatsdark.com/listen?format=rss"></feed>
+	</outline>
+
+	<outline title="anarchist">
+		This Is Hell!					<feed xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:70607212/sounds.rss"></feed>
+		The Final Straw Radio 			<feed xmlUrl="http://thefinalstrawradio.libsyn.com/rss"></feed>
+		The Magnificast					<feed xmlUrl="https://feeds.transistor.fm/the-magnificast"></feed>
+	</outline>
+</body>

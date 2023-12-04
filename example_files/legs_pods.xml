@@ -1,0 +1,27 @@
+<body>
+	<outline title="Pokemon">
+		<feed xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:2124405/sounds.rss"></feed>
+		<feed xmlUrl="https://rss.simplecast.com/podcasts/7469/rss"></feed>
+		<feed xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:84966468/sounds.rss"></feed>
+	</outline>
+	<outline title="HowStuffWorks">
+		<feed xmlUrl="http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss"></feed>
+		<feed xmlUrl="http://www.howstuffworks.com/podcasts/stuff-you-missed-in-history-class.rss"></feed>
+		<feed xmlUrl="http://www.howstuffworks.com/podcasts/stuff-to-blow-your-mind.rss"></feed>
+		<feed xmlUrl="http://www.howstuffworks.com/podcasts/stuff-mom-never-told-you.rss"></feed>
+		<feed xmlUrl="https://feeds.megaphone.fm/parttimegenius"></feed>
+	</outline>
+	<outline title="CBC">
+		<feed xmlUrl="http://www.cbc.ca/podcasting/includes/quirksaio.xml"></feed>
+		<feed xmlUrl="http://www.cbc.ca/podcasting/includes/laughoutloud.xml"></feed>
+		<feed xmlUrl="http://www.cbc.ca/podcasting/includes/thisisthat.xml"></feed>
+		<feed xmlUrl="http://www.cbc.ca/podcasting/includes/ideas.xml"></feed>
+		<feed xmlUrl="http://www.cbc.ca/podcasting/includes/undertheinfluence.xml"></feed>
+	</outline>
+	<outline title="Speedruns">
+		<feed xmlUrl="http://pixelatedaudio.com/feed/podcast/"></feed>
+		<feed xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:170373327/sounds.rss"></feed>
+		<feed xmlUrl="https://www.myinsanepace.com/feed/episodes"></feed>
+		<feed xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:455820621/sounds.rss"></feed>
+	</outline>
+</body>
